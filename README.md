@@ -1,9 +1,7 @@
 # Alchemy of Souls Season 1
 ### K-Drama / Romance
 Alchemy of Souls Season 1 is a fantasy historical drama set in the fictional nation of Daeho, focusing on young mages and a forbidden spell that allows souls to switch bodies.
-	---
-![AOS](Desktop/naksu.jpg)
-	---
+
 The powerful assassin **Naksu** is fatally wounded while being pursued by the mages of Songrim. To survive, she performs the forbidden **"Alchemy of Souls"** spell, but her soul ends up trapped in the powerless, blind body of a servant girl named **Mu-deok**.
 
 Meanwhile, **Jang Uk**, the illegitimate son of a noble family (born under the King's Star), is unable to use his powers because his father, Jang Kang, blocked his energy gates before disappearing.
